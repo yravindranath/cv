@@ -8,6 +8,12 @@ hr {
     width: 10%;
 }
 
-h1, h3 {
-    color: #300fc2;
+h1 {
+    color: white ;
+    text-shadow: 2px 2px 8px black;
+}
+
+h3 {
+    color: rgb(10,10,100);
+    
 }
